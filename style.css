@@ -1,0 +1,12 @@
+.card {
+    width: 18rem;
+}
+
+.card-body {
+    background-color: rgb(188 255 255);
+    color: #000;
+}
+
+.table-custom {
+    background-color: rgb(252 180 118);
+}
